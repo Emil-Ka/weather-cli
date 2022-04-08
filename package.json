@@ -16,6 +16,8 @@
   "dependencies": {
     "axios": "^0.26.1",
     "chalk": "^5.0.1",
-    "dedent-js": "^1.0.1"
+    "cross-env": "^7.0.3",
+    "dedent-js": "^1.0.1",
+    "https": "^1.0.0"
   }
 }
